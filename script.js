@@ -40,7 +40,7 @@ stopButton.addEventListener("click", () => {
   clearInterval(myInterval);
 });
 
-//adding a click event to Rest button
+//adding a click event to Reset button
 resetButton.addEventListener("click", () => {
   clearInterval(myInterval);
   getSec.innerHTML = "00";
