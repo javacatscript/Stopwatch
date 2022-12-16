@@ -1,2 +1,2 @@
 # stopwatch
-A basic stopwatch timer made using HTML, CSS, JS.  
+A basic stopwatch timer made using HTML, CSS, and vanilla JavaScript.  
